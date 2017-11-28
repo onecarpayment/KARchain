@@ -1,0 +1,44 @@
+// const wrtc = require('wrtc');
+// const Exchange = require('peer-exchange');
+// const p2p = new Exchange(...);
+// const net = require("net");
+// const messageType = { ... };
+// const { ... } = messageType;
+
+// class PeerToPeer {
+  // constructor(karchain) { ... }
+  // startServer(port) { ... }
+  // discoverPeers() { ... }
+  // connectToPeer(host, port) { ... }
+  // closeConnection() { ... }
+  // broadcastLatest() { ... }
+  // broadcast(message) { ... }
+  // write(peer, message) { ... }
+  // initConnection(connection) { ... }
+  // initMessageHandler(connection) { ... }
+  // initErrorHandler(connection) { ... }
+  // handleMessage(peer, message) { ... }
+
+  handleReceivedLatestBar(message, peer) {
+    // if (latestBar.hash === receivedBar.previousHash) {
+    // ...
+    } else if (receivedBar.index > latestBar.index) {
+      this.write(peer, Messages.getKArchain());
+    } else {
+      // Do nothing.
+    }
+  }
+
+  handleReceivedKarchain(message) {
+    const receivedChain = message.data;
+    
+    try {
+      this.karchain.replaceChain(receivedChain);
+    } catch(err) {
+      throw err;
+    }
+  }
+// }
+
+// module.exports = PeerToPeer;
+// class Messages { ... }
