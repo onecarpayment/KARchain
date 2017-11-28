@@ -1,0 +1,22 @@
+// cosnt Bar = reuqire("./Bar.js");
+
+// class Karchain {
+  // constructor() {
+    // this.karchain = [Bar.origin()];
+    this.difficulty = 3;
+  // }
+  
+  // get() { ... }
+  // get latestBar() { ... }
+
+  isValidHashDifficulty(hash) {
+    for (var i = 0; i < hash.length; i++) {
+      if (hash[i] !== "0") {
+        break;
+      };
+    }
+    return i >= this.difficulty;
+  }
+// };
+
+// module.exports = Karchain;
