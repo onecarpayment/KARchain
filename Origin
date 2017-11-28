@@ -1,0 +1,17 @@
+const Bar = require("./Bar.js");
+
+class Karchain {
+  constructor () {
+    this.karchain = [Bar.origin()];
+  }
+
+  get() {
+    return this.karchain;
+  }
+
+  get latestBar() {
+    return this.karchain[this.karchain.length - 1];
+  }
+};
+
+module.exports = Karchain;
