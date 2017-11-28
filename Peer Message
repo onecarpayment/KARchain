@@ -1,0 +1,49 @@
+// const wrtc = require('wrtc');
+// const Exchange = require('peer-exchange');
+// const p2p = new Exchange(...);
+// const net = require("net");
+const messageType = {
+  REQUEST_LATEST_BAR: 0,
+  RECEIVE_LATEST_BAR: 1,
+  REQUEST_KARCHAIN: 2,
+  RECEIVE_KARCHAIN: 3,
+};
+const {
+  REQUEST_LATEST_BAR,
+  RECEIVE_LATEST_BAR,
+  REQUEST_KARCHAIN,
+  RECEIVE_KARCHAIN,
+  REQUEST_TRANSACTIONS,
+  RECEIVE_TRANSACTIONS
+} = messageType;
+
+// class PeerToPeer { ... }
+// module.exports = PeerToPeer;
+
+class Messages {
+  static getLatestBar() {
+    return {
+      type: REQUEST_LATEST_BAR
+    };
+  }
+
+  static sendLatestBar(bar) {
+    return {
+      type: RECEIVE_LATEST_BAR,
+      data: bar
+    };
+  }
+
+  static getkarchain() {
+    return {
+      type: REQUEST_BARCHAIN
+    };
+  }
+
+  static sendKarchain(karchain) {
+    return {
+      type: RECEIVE_KARCHAIN,
+      data: karchain
+    };
+  }
+}
