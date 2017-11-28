@@ -1,0 +1,45 @@
+// const Bar = require("./Bar.js");
+// const crypto = require("crypto");
+
+// class Karchain {
+  // constructor() { ... }
+  // get() { ... }
+  // get latestBar() { ... }
+  // isValidHashDifficulty(hash) { ... }
+  // calculateHashForBar(bar) { ... }
+  // calculateHash(...) { ... }
+  // mine(data) { ... }
+  // generateNextBark(data) { ... }
+  // addBlock(newBar) { ... }
+  // isValidNextBar(nextBar, previousBar) { ... }
+
+  isValidChain(chain) {
+    if (JSON.stringify(chain[0]) !== JSON.stringify(Bar.origin)) {
+      return false;
+    }
+
+    const tempChain = [chain[0]];
+    for (let i = 1; i < chain.length; i = i + 1) {
+      if (this.isValidNextBar(chain[i], tempChain[i - 1])) {
+        tempChain.push(chain[i]);
+      } else {
+        return false;
+      }
+    }
+    return true;
+  }
+
+  isChainLonger(chain) {
+    return chain.length > this.karchain.length;
+  }
+
+  replaceChain(newChain) {
+    if (this.isValidChain(newChain) && this.isChainLonger(newChain)) {
+      this.karchain = JSON.parse(JSON.stringify(newChain));
+    } else {
+      throw "Error: invalid chain";
+    }
+  }
+// };
+
+// module.exports = Karchain;
