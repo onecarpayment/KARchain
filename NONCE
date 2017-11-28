@@ -1,0 +1,54 @@
+// const Bar = require("./Bar.js");
+// const crypto = require("crypto");
+
+// class Karchain {
+  // constructor() { ... }
+  // get() { ... }
+  // get latestBar() { ... }
+  // isValidHashDifficulty(hash) { ... }
+  // calculateHashForBar(bar) { ... }
+  // calculateHash(...) { ... }
+  // mine(data) { ... }
+
+  generateNextBar(data) {
+    const nextIndex = this.latestBar.index + 1;
+    const previousHash = this.latestBar.hash;
+    let timestamp = new Date().getTime();
+    let nonce = 0;
+    let nextHash = this.calculateHash(
+      nextIndex,
+      previousHash,
+      timestamp,
+      data,
+      provider,
+      nonce
+    );
+
+    while (!this.isValidHashDifficulty(nextHash)) {
+      nonce = nonce + 1;
+      timestamp = new Date().getTime();
+      nextHash = this.calculateHash(
+        nextIndex,
+        previousHash,
+        timestamp,
+        data,
+        provider,
+        nonce
+      );
+    }
+
+    const nextBlock = new Block(
+      nextIndex,
+      previousBlock.hash,
+      nextTimestamp,
+      data,
+      provider,
+      nextHash,
+      nonce
+    );
+
+    return nextBar;
+  }
+// };
+
+// module.exports = Blockchain;
