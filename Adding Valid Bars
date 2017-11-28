@@ -1,0 +1,32 @@
+// const Bar = require("./Bar.js");
+// const crypto = require("crypto");
+
+// class Karchain {
+  // constructor() { ... }
+  // get() { ... }
+  // get latestBar() { ... }
+  // isValidHashDifficulty(hash) { ... }
+  // calculateHashForBar(bar) { ... }
+  // calculateHash(...) { ... }
+  // mine(data) { ... }
+  // generateNextBar(data) { ... }
+  // addBlock(newBar) { ... }
+
+  isValidNextBar(nextBar, previousBar) {
+    const nextBarHash = this.calculateHashForBar(nextBar);
+
+    if (previousBar.index + 1 !== nextBar.index) {
+      return false;
+    } else if (previousBar.hash !== nextBar.previousHash) {
+      return false;
+    } else if (nextBarHash !== nextBar.hash) {
+      return false;
+    } else if (!this.isValidHashDifficulty(nextBarHash)) {
+      return false;
+    } else {
+      return true;
+    }
+  }
+// };
+
+// module.exports = Karchain;
