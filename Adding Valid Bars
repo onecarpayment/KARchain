@@ -10,7 +10,7 @@
   // calculateHash(...) { ... }
   // mine(data) { ... }
   // generateNextBar(data) { ... }
-  // addBlock(newBar) { ... }
+  // addBar(newBar) { ... }
 
   isValidNextBar(nextBar, previousBar) {
     const nextBarHash = this.calculateHashForBar(nextBar);
