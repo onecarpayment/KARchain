@@ -37,7 +37,7 @@ The public is open to use the definitions and functions as presented, if your up
 
 All code submitted will be reviewed by us and voted by the general public for final approval.
 
-Any code developed by you and submitted for the reward, will become the sole property owner of OneCarPayment, Inc. and any rights to the code you have developed will be transfered to OneCarPayment, Inc.
+Any code developed by you and submitted for the reward, will become the sole property owner of OneCarPayment, Inc. and any rights to the code you have developed will be transferred to OneCarPayment, Inc.
 
 And for the love of building beautiful code, please don't plagiarize anyones hard work.
 
