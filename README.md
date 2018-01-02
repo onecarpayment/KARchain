@@ -31,7 +31,7 @@ Key: Block = Bar / Blockchain = Karchain / Token = Kar or KarToken / Provider = 
 If you need help in getting more info on other definitions and/or functions - please email us info@onecarpayment.com
 
 **************************************************************************************
-***Reward offer:
+***Reward offer:***
 
 The public is open to use the definitions and functions as presented, if your up for a challenge - we will pay you up-to 10 BTC for completed and functional code - if approved.
 
@@ -45,7 +45,7 @@ Your mind is beautiful in many ways, so be smart in developing your code.
 
 Clean code is smart code.
 
-***Work for us:
+***Work for us:***
 
 If your code is that good, heck we'll even hire you - we have the best benefits, perks & rewards bar none - even better than top F100 companies combined - if we don't have it, just ask us and we'll give it to you - thats the love we have for our team!
 
@@ -69,7 +69,7 @@ Awesome Company Perks:
 
 OneCarPayment™ is an Equal Opportunity Employer and Extremely Prohibits Discrimination and Harassment of Any Kind. - Don't spread the hate, spread the power of love.
 
-NOTE: If you represent an app/software development or recruitment company, PLEASE DO NOT apply or send us emails. We will not accept any proposals submitted, we get hundreds a day - really - in one day we got over 900 proposals globally.
+***NOTE:*** If you represent an app/software development or recruitment company, PLEASE DO NOT apply or send us emails. We will not accept any proposals submitted, we get hundreds a day - really - in one day we got over 900 proposals globally.
 
 If you need help in getting more info on other definitions and/or functions - please email us info@onecarpayment.com
 
