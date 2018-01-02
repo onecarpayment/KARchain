@@ -8,11 +8,11 @@ This repository will hold the commands, descriptions and functions for our Karch
 
 //KarTokens is a new and simple way to pay, transact and record services rendered to your car, i.e.: you purchased an oil change and used KarTokens to make that purchase.  Now that purchase is recorded and a history is created for the oil change performed to the car.  Anyone who purchases that car, 1- can see when the oil change was done, 2- who performed the oil change and 3- when the next oil change is due. It's not only oil changes, it's anything that's car related, even tires, brakes, even engine services or autobody services and more!!
 
-//KarTokens can also be used for in-car purchases, in-car entertainment, drive-thru's, etc.. we developed unlimited use cases in using KarTokens thats auto related. KarTokens is a simple way to purchase an automobile or services/products without borders, we use KarTokens to make those purchases virtual online through a app or smart phone/tablet endable RFID or desktop VPN portal or either in a "plastic credit card" form of payment.
+//KarTokens can also be used for in-car purchases, in-car entertainment, drive-thru's, etc.. we developed unlimited use cases in using KarTokens thats auto related. KarTokens is a simple way to purchase an automobile or services/products without borders, we use KarTokens to make those purchases virtual online through a app or RFID enabled smart phone/tablet or desktop VPN portal or either in a "plastic credit card type" form of payment.
 
 //Smart Contract allows members [private] /consumers [public] to purchase products or services privately without fully disclosing themselves to the public. It's a safe way to make these types of purchases without disclosing all of the personal details of the transaction in owning an automobile or making purchases with KarTokens.
 
-//Smart Contract can:
+//Smart Contract can Read/Write/Record/Trace/Define:
 1- give the ability to pay for services rendered at any point in time [time triggered]
 2- add interest to any amount [crypto/fiat currency] stored in the smart contract [value-add services]
 3- track data or assets stored in the smart contract [smart assets]
@@ -53,13 +53,15 @@ Send your cv/resume here >> resume@onecarpayment.com
 
 Awesome Company Perks:
 
--Early stage equity (pre-Angel or VC Investments)
-
--Flexible hours (4 day work weeks)
+-Executive Head to Toe Medical benefits (mom/dad/kids/pets)
 
 -1yr PTO for new babies for mom and dad (Babies need mom and dad too)
 
--Your 4wk vacation on us (Free air & hotel)
+-60% Early stage equity pool (pre-Angel or VC Investments)
+
+-Flexible hours (4 day work weeks - we like 3 day weekends)
+
+-Your 4wk vacation on us (Free air & hotel - make sure your passport is update)
 
 -Remote work (why travel to work, work from home)
 
