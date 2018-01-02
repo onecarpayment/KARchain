@@ -1,6 +1,6 @@
 This repository will hold the commands, descriptions and functions for our Karchain network that will be published in the coming months in 2018. So, hang tight we will release more info once the KarToken sale is completed.
 
-***NOTE: The Karchain code listed are in description & function form and may seen incomplete, but many commands & functions have been omitted for security reasons. All final coding for the smart contracts will be released once the KarToken sale is completed in March 2018.***
+***NOTE: The Karchain code listed are in description & function form and may seen incomplete, but many commands & functions have been omitted for security reasons. All final coding for the Karchain, KarTokens, Smart Contracts & Smart Title Ledger will be released once the KarToken sale is completed in March 2018.***
 
 //Karchain is a platform to decentralize automotive financial servicing and processing of payments [car loans, car insurance & car maintenance] including the payment structure by removing the need to store currency at a bank and store both crypto/ fiat currency in a smart contract & smart title private ledger.  What blockchain is to currencies, karchain is to automobiles...
 
