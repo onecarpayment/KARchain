@@ -18,7 +18,7 @@ This repository will hold the commands, descriptions and functions for our Karch
 3- track data or assets stored in the smart contract [smart assets]
 4- transfer or resolve smart contracts using AI input [smart legal eagle]
 
-//Smart Title Ledger allows members [private] /consumers [public] allows OCP Bank, to create value in owning an automobile by removing the need to hold vehicle titles. And placing the vehicle title in the control of the vehicle owner in developing a smart financial service the owner can afford in owning that vehicle.
+//Smart Title Ledger allows members [private] /consumers [public] for OCP Bank, to create value in owning an automobile by removing the need to hold vehicle titles. And placing the vehicle title in the control of the vehicle owner in developing a smart financial service the owner can afford in owning that vehicle. 
 
 //Smart Title Ledgers can Read/Write/Record/Trace/Define:
 1- the ability for consumers to control there vehicle title [time controlled asset]
