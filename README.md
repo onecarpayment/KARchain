@@ -12,7 +12,7 @@ This repository will hold the commands, descriptions and functions for our Karch
 
 //Smart Contract allows members [private] /consumers [public] to purchase products or services privately without fully disclosing themselves to the public. It's a safe way to make these types of purchases without disclosing all of the personal details of the transaction in owning an automobile or making purchases with KarTokens.
 
-Smart Contract can:
+//Smart Contract can:
 1- give the ability to pay for services rendered at any point in time [time triggered]
 2- add interest to any amount [crypto/fiat currency] stored in the smart contract [create value]
 3- track data or assets stored in the smart contract [smart assets]
@@ -20,7 +20,7 @@ Smart Contract can:
 
 //Smart Title Ledger allows members [private] /consumers [public] allows OCP Bank, to create value in owning an automobile by removing the need to hold vehicle titles. And placing the vehicle title in the control of the vehicle owner in developing a smart financial service the owner can afford in owning that vehicle.
 
-Smart Title Ledgers can Read/Write/Record/Trace:
+//Smart Title Ledgers can Read/Write/Record/Trace:
 1- the ability for consumers to control there vehicle title [time controlled asset]
 2- AI driven payment services, consumers make smart financial choices in owning any vehicle in any crypto/flat currency [smart payments] 
 3- no more legal problems in ownership [proof of work vs proof of ownership]
@@ -47,27 +47,27 @@ Clean code is smart code.
 
 ***Work for us:
 
-If your code is that good, heck we'll even hire you - we have the best benefits, perks & rewards barnone - even better than top F100 companies combined - if we don't have it, just ask us and we'll give it to you.
+If your code is that good, heck we'll even hire you - we have the best benefits, perks & rewards bar none - even better than top F100 companies combined - if we don't have it, just ask us and we'll give it to you - thats the love we have for our team!
 
 Send your cv/resume here >> resume@onecarpayment.com
 
-Company Perks:
+Awesome Company Perks:
 
-Early stage equity (pre-Angel or VC Investments)
+-Early stage equity (pre-Angel or VC Investments)
 
-Flexible hours (4 day work weeks)
+-Flexible hours (4 day work weeks)
 
-1yr PTO for new babies for mom and dad (Babies need mom and dad too)
+-1yr PTO for new babies for mom and dad (Babies need mom and dad too)
 
-Your 2wk vacation on us (Free air & hotel)
+-Your 4wk vacation on us (Free air & hotel)
 
-Remote work (why travel to work, work from home)
+-Remote work (why travel to work, work from home)
 
-Work with co-workers who are PASSIONATE & FANATICAL about what we do
+-Work with co-workers who are PASSIONATE & FANATICAL about what we do (we love cars and trucks!)
 
 OneCarPayment™ is an Equal Opportunity Employer and Extremely Prohibits Discrimination and Harassment of Any Kind. - Don't spread the hate, spread the power of love.
 
-NOTE: If you represent an app/software development or recruitment company, PLEASE DO NOT apply or send us emails. We will not accept any proposals submitted, we get hundreds a day - really.
+NOTE: If you represent an app/software development or recruitment company, PLEASE DO NOT apply or send us emails. We will not accept any proposals submitted, we get hundreds a day - really - in one day we got over 900 proposals globally.
 
 If you need help in getting more info on other definitions and/or functions - please email us info@onecarpayment.com
 
