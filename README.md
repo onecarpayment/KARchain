@@ -1,14 +1,14 @@
-This repository will hold the commands, descriptions and functions for our Karchain network that will be published in the coming months in 2018. So, hang tight we will release more info once the KarToken sale is completed.
+This repository will hold the commands, descriptions and functions for our Karchain network that will be published in the coming months in 2019. So, hang tight we will release more info once the KarToken sale is completed.
 
-***NOTE: The Karchain code listed are in description & function form and may seen incomplete, but many commands & functions have been omitted for security reasons. All final coding for the Karchain, KarTokens, Smart Contracts & Smart Title Ledger will be released once the KarToken sale is completed in March 2018.***
+***NOTE: The KARchain code listed are in description & function form and may seen incomplete, but many commands & functions have been omitted for security reasons. All final coding for the Karchain, KARtokens, Smart Contracts & Smart Title Ledger will be released once the KARtoken sale is completed in March 2018.***
 
-//Karchain is a platform to decentralize automotive financial servicing and processing of payments [car loans, car insurance & car maintenance] including the payment structure by removing the need to store currency at a bank and store both crypto/ fiat currency in a smart contract & smart title private ledger.  What blockchain is to currencies, karchain is to automobiles...
+//KARchain is a platform to decentralize automotive financial servicing and processing of payments [car loans, car insurance & car maintenance] including the payment structure by removing the need to store currency at a bank and store both crypto/ fiat currency in a smart contract & smart title private ledger.  What blockchain is to currencies, karchain is to automobiles...
 
-//Karchain is our version of Blockchain but designed for Cars and Trucks, and soon for Motorcycles, RVs and ATVs in 2019.  We use Karchain as a way to help anyone in any part of the world - to get a car loan, car insurance and car maintenance without having borders anywhere in the world. You in live NY, Rio, Paris or Rome, anywhere - you can get finanical service from us - Karchain is borderless. 
+//KARchain is our version of Blockchain but designed for Cars and Trucks, and soon for Motorcycles, RVs and ATVs in 2019.  We use Karchain as a way to help anyone in any part of the world - to get a car loan, car insurance and car maintenance without having borders anywhere in the world. You in live NY, Rio, Paris or Rome, anywhere - you can get finanical service from us - Karchain is borderless. 
 
-//KarTokens is a new and simple way to pay, transact and record services rendered to your car, i.e.: you purchased an oil change and used KarTokens to make that purchase.  Now that purchase is recorded and a history is created for the oil change performed to the car.  Anyone who purchases that car, 1- can see when the oil change was done, 2- who performed the oil change and 3- when the next oil change is due. It's not only oil changes, it's anything that's car related, even tires, brakes, even engine services or autobody services and more!!
+//KARtokens is a new and simple way to pay, transact and record services rendered to your car, i.e.: you purchased an oil change and used KarTokens to make that purchase.  Now that purchase is recorded and a history is created for the oil change performed to the car.  Anyone who purchases that car, 1- can see when the oil change was done, 2- who performed the oil change and 3- when the next oil change is due. It's not only oil changes, it's anything that's car related, even tires, brakes, even engine services or autobody services and more!!
 
-//KarTokens can also be used for in-car purchases, in-car entertainment, drive-thru's, etc.. we developed unlimited use cases in using KarTokens thats auto related. KarTokens is a simple way to purchase an automobile or services/products without borders, we use KarTokens to make those purchases virtual online through a app or RFID enabled smart phone/tablet or desktop VPN portal or either in a "plastic credit card type" form of payment.
+//KARtokens can also be used for in-car purchases, in-car entertainment, drive-thru's, etc.. we developed unlimited use cases in using KarTokens thats auto related. KarTokens is a simple way to purchase an automobile or services/products without borders, we use KarTokens to make those purchases virtual online through a app or RFID enabled smart phone/tablet or desktop VPN portal or either in a "plastic credit card type" form of payment.
 
 //Smart Contract allows members [private] /consumers [public] to purchase products or services privately without fully disclosing themselves to the public. It's a safe way to make these types of purchases without disclosing all of the personal details of the transaction in owning an automobile or making purchases with KarTokens.
 
@@ -26,7 +26,7 @@ This repository will hold the commands, descriptions and functions for our Karch
 3- no more legal problems in ownership [proof of work vs proof of ownership]
 4- AI output from the smart title ledger [smart accountability]
 
-Key: Block = Bar / Blockchain = Karchain / Token = Kar or KarToken / Provider = Service Provider or Buyer or Seller
+Key: Block = Bar / Blockchain = KARchain / Token = KAR or KARToken / Provider = Service Provider or Buyer or Seller
 
 If you need help in getting more info on other definitions and/or functions - please email us info@onecarpayment.com
 
